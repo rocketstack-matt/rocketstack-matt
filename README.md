@@ -22,7 +22,7 @@ I occasionally post on my blog [The Accidental Architect](http://accidental-arch
 
 ### Personal Projects
 - The only way to beat my wife - [Wordle Solver](https://github.com/rocketstack-matt/wordle-solver)
-- An old intoduction to Behavioural Driven Development - [BDD Tutorial](https://github.com/rocketstack-matt/bdd)
+- An old introduction to Behaviour Driven Development - [BDD Tutorial](https://github.com/rocketstack-matt/bdd)
 - An Open Source version of a [myCast](https://github.com/rocketstack-matt/myCast) Video Streaming platform, the first thing I built on the cloud
 
 ### Find Me
