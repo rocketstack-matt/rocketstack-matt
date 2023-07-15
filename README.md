@@ -17,7 +17,7 @@ I occasionally post on my blog [The Accidental Architect](http://accidental-arch
 
 ### FINOS
 - Co-lead of the [DevOps Automation SIG](https://github.com/finos/devops-automation)
-- Working Group Lead for the [Architecture as Code Working Group](http://devops.finos.org/docs/working-groups/aasc)
+- Working Group Lead for the [Architecture as Code Working Group]([http://devops.finos.org/docs/working-groups/aasc](https://github.com/finos/devops-automation/blob/main/docs/working-groups/aasc.mdx))
 - Contributor to The FINOS Labs project [TraderX](https://github.com/finos-labs/traderX)
 
 ### Personal Projects
