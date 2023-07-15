@@ -1,7 +1,7 @@
 ### Hi there, nice to meet you 👋
 ---
 
-**Matthew Bain** is a Senior Technologist in the Finance industry. 
+**Matthew Bain** is a Senior Technologist in the Finance industry and self titled Accidental Architect (as that had never been the plan). 
 
 For over 20 years I've worked for some of the world's largest investment banks. Over the years I've built Trading Systems, Data Platforms, Video Streaming Apps and overly adventurous Excel workbooks.
 
