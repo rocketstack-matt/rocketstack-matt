@@ -26,6 +26,5 @@ I occasionally post on my blog [The Accidental Architect](http://accidental-arch
 - An Open Source version of a [myCast](https://github.com/rocketstack-matt/myCast) Video Streaming platform, the first thing I built on the cloud
 
 ### Find Me
-![Twitter Follow](https://img.shields.io/twitter/follow/rocketstackmatt)
-
+![Twitter Follow](https://img.shields.io/twitter/follow/rocketstackmatt?link=https%3A%2F%2Ftwitter.com%2Frocketstackmatt)
 [![Linkedin Badge](https://img.shields.io/badge/-matthewbain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewbain/)](https://www.linkedin.com/in/matthewbain/)
