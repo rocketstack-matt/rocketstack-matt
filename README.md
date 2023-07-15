@@ -13,18 +13,17 @@ Outside of work, Matt is an avid follower of technology of all sorts, he loves t
 
 I occasionally post on my blog [The Accidental Architect](http://accidental-architect.com).
 
-<br/>
-
 ---
 
 ### FINOS
-- [DevOps Automation SIG](http://devops.finos.org/)
-- [Architecture as Code Working Group](http://devops.finos.org/docs/working-groups/aasc)
-- [TraderX](https://github.com/finos-labs/traderX)
+- Co-lead of the [DevOps Automation SIG](http://devops.finos.org/)
+- Working Group Lead for the [Architecture as Code Working Group](http://devops.finos.org/docs/working-groups/aasc)
+- Contributor to The FINOS Labs project [TraderX](https://github.com/finos-labs/traderX)
 
 ### Personal Projects
-- [Wordle Solver](https://github.com/rocketstack-matt/wordle-solver)
-- [BDD Tutorial](https://github.com/rocketstack-matt/bdd)
+- The only way to beat my wife - [Wordle Solver](https://github.com/rocketstack-matt/wordle-solver)
+- An old intoduction to Behavioural Driven Development - [BDD Tutorial](https://github.com/rocketstack-matt/bdd)
+- An Open Source version of a [myCast](https://github.com/rocketstack-matt/myCast) Video Streaming platform, the first thing I built on the cloud
 
 ### Find Me
 [![Twitter Badge](https://img.shields.io/badge/-@rocketstackmatt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rocketstackmatt)](https://twitter.com/rocketstackmatt) 
