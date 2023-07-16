@@ -11,7 +11,7 @@ Matt was awarded the title of Distinguished Engineer in 2022 and hopes to inspir
 
 Outside of work, Matt is an avid follower of technology of all sorts, he loves to travel, read and cook. He lives with his wife Siobhan, children Cillian & Fintan and an annoying dog called Lyra in London, England where you'll often find him watching cricket at [The Oval](https://www.kiaoval.com/).
 
-I occasionally post on my blog [The Accidental Architect](http://accidental-architect.com).
+<!-- I occasionally post on my blog [The Accidental Architect](http://accidental-architect.com). -->
 
 ---
 
