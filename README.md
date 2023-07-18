@@ -1,9 +1,7 @@
 ### Hi there, nice to meet you 👋
 ---
 
-**Matthew Bain** is a Senior Technologist in the Finance industry and self titled Accidental Architect (as that had never been the plan). 
-
-For over 20 years I've worked for some of the world's largest investment banks. Over the years I've built Trading Systems, Data Platforms, Video Streaming Apps and overly adventurous Excel workbooks.
+**Matthew Bain** is a Senior Technologist in the Finance industry. For over 20 years I've worked for some of the world's largest investment banks. Over the years I've built Trading Systems, Data Platforms, Video Streaming Apps and overly adventurous Excel workbooks.
 
 My current focus is on improving how we capture and evolve System Architectures and drive Modernization of our legacy platforms. In particular I'm interested in how we can codify system architectures to enable greater automation and be able to evidence that what we say we'd build is what we actually built, something particularly important in highly regulated industries.
 
