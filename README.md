@@ -22,6 +22,7 @@ Outside of work, I'm an avid follower of technology of all sorts, love to travel
 - The only way to beat my wife - [Wordle Solver](https://github.com/rocketstack-matt/wordle-solver)
 - An old introduction to Behaviour Driven Development - [BDD Tutorial](https://github.com/rocketstack-matt/bdd)
 - An Open Source version of a [myCast](https://github.com/rocketstack-matt/myCast) Video Streaming platform, the first thing I built on the cloud
+- A workshop to help you apply TDD to Advent of Code - [Advent of TDD](https://github.com/jpgough/advent-of-tdd/)
 
 ### Find Me
 [![Linkedin Badge](https://img.shields.io/badge/-matthewbain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewbain/)](https://www.linkedin.com/in/matthewbain/)
