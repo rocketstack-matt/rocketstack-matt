@@ -16,7 +16,7 @@ Outside of work, I'm an avid follower of technology of all sorts, love to travel
 ### FINOS
 - Co-lead of the [DevOps Automation SIG](https://github.com/finos/devops-automation)
 - Working Group Lead for the [Architecture as Code Working Group](https://github.com/finos/devops-automation/blob/main/docs/working-groups/aasc.mdx)
-- Contributor to The FINOS Labs project [TraderX](https://github.com/finos-labs/traderX)
+- Contributor to The FINOS [TraderX](https://github.com/finos/traderx) project
 
 ### Personal Projects
 - The only way to beat my wife - [Wordle Solver](https://github.com/rocketstack-matt/wordle-solver)
