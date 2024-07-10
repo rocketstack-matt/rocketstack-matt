@@ -26,5 +26,8 @@ Outside of work, I'm an avid follower of technology of all sorts, love to travel
 - An Open Source version of a [myCast](https://github.com/rocketstack-matt/myCast) Video Streaming platform, the first thing I built on the cloud
 - A workshop to help you apply TDD to Advent of Code - [Advent of TDD](https://github.com/jpgough/advent-of-tdd/)
 
+### Talks
+- [Keep CALM & Carry On Approving Change](https://www.youtube.com/watch?v=pKjRSMQjy6E) at the London FINOS Open Source in Finance Forum 2024
+
 ### Find Me
 [![Linkedin Badge](https://img.shields.io/badge/-matthewbain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewbain/)](https://www.linkedin.com/in/matthewbain/)
