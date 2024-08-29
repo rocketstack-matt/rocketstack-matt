@@ -17,7 +17,7 @@ Outside of work, I'm an avid follower of technology of all sorts, love to travel
 - Member of the [Technical Oversight Committee](https://github.com/finos/technical-oversight-committee/)
 - Co-lead of the [DevOps Automation SIG](https://github.com/finos/devops-automation)
 - Working Group Lead for the [Architecture as Code Working Group](https://github.com/finos/devops-automation/blob/main/docs/working-groups/aasc.mdx)
-- Lead maintainer for the [Architecture as Code](https://github.com/finos/architecture-as-code) project amd [Common Architecture Language Model](https://github.com/finos/architecture-as-code/tree/main/calm)
+- Lead maintainer for the [Architecture as Code](https://github.com/finos/architecture-as-code) project and [Common Architecture Language Model](https://github.com/finos/architecture-as-code/tree/main/calm)
 - Maintainer for the FINOS [TraderX](https://github.com/finos/traderx) project
 
 ### Personal Projects
