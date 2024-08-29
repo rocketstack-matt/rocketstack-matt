@@ -25,6 +25,7 @@ Outside of work, I'm an avid follower of technology of all sorts, love to travel
 - An old introduction to Behaviour Driven Development - [BDD Tutorial](https://github.com/rocketstack-matt/bdd)
 - An Open Source version of a [myCast](https://github.com/rocketstack-matt/myCast) Video Streaming platform, the first thing I built on the cloud
 - A workshop to help you apply TDD to Advent of Code - [Advent of TDD](https://github.com/jpgough/advent-of-tdd/)
+- An example of how to use Terraform to manage GitHub repositories and treams - [GitHub Terraform](https://github.com/rocketstack-matt/terraform-example)
 
 ### Talks
 - [Keep CALM & Carry On Approving Change](https://www.youtube.com/watch?v=pKjRSMQjy6E) at the London FINOS Open Source in Finance Forum 2024
