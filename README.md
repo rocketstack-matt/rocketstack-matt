@@ -19,6 +19,7 @@ Outside of work, I'm an avid follower of technology of all sorts, love to travel
 - Working Group Lead for the [Architecture as Code Working Group](https://github.com/finos/devops-automation/blob/main/docs/working-groups/aasc.mdx)
 - Lead maintainer for the [Architecture as Code](https://github.com/finos/architecture-as-code) project and [Common Architecture Language Model](https://github.com/finos/architecture-as-code/tree/main/calm)
 - Maintainer for the FINOS [TraderX](https://github.com/finos/traderx) project
+- Winner of the 2025 FINOS Coach Award
 
 ### Personal Projects
 - The only way to beat my wife - [Wordle Solver](https://github.com/rocketstack-matt/wordle-solver)
