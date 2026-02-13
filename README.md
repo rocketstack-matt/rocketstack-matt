@@ -30,7 +30,7 @@ Outside of work, I'm an avid follower of technology of all sorts, love to travel
 ### Talks
 - [Keep CALM & Carry On Approving Change](https://www.youtube.com/watch?v=pKjRSMQjy6E) at the London FINOS Open Source in Finance Forum 2024
 - [CALM: Securing AI and APIs from Tool Chaining Attacks with Architecture as Code](https://www.youtube.com/watch?v=zdz6lpHZ-tg&t=17s)
-- [Secure by Design: Harnessing 3 FINOS Projects for Quick & Compliant Architectures]https://www.finos.org/hubfs/OSFF%202025%20(Open%20Source%20in%20Finance%20Forum)/OSFF%20New%20York%20NYC%202025/OSFF%20NYC%202025%20Videos/The%20Launchpad%20Incubating%20FINOS%20Projects/Secure%20by%20Design_%20Harnessing%203%20FINOS%20Projects%20for%20Quick%20%26%20Compliant%20A...%20Eddie%20Knight%20%26%20Matthew%20Bain.mp4)
+- [Secure by Design: Harnessing 3 FINOS Projects for Quick & Compliant Architectures](https://www.finos.org/hubfs/OSFF%202025%20(Open%20Source%20in%20Finance%20Forum)/OSFF%20New%20York%20NYC%202025/OSFF%20NYC%202025%20Videos/The%20Launchpad%20Incubating%20FINOS%20Projects/Secure%20by%20Design_%20Harnessing%203%20FINOS%20Projects%20for%20Quick%20%26%20Compliant%20A...%20Eddie%20Knight%20%26%20Matthew%20Bain.mp4)
 
 ### Find Me
 [![Linkedin Badge](https://img.shields.io/badge/-matthewbain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewbain/)](https://www.linkedin.com/in/matthewbain/)
