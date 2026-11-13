@@ -9,7 +9,7 @@ I was awarded the title of Distinguished Engineer in 2022 and hope to inspire th
 
 Outside of work, I'm an avid follower of technology of all sorts, love to travel, read and cook. I live with my wife Siobhan, children Cillian & Fintan and an annoying dog called Lyra in London, England where you'll often find me watching cricket at [The Oval](https://www.kiaoval.com/).
 
-<!-- I occasionally post on my blog [The Accidental Architect](http://accidental-architect.com). -->
+I occasionally post on my blog [The Accidental Architect](http://accidental-architect.com).
 
 ---
 
