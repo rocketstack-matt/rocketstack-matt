@@ -28,6 +28,7 @@ I occasionally post on my blog [The Accidental Architect](http://accidental-arch
 - A workshop to help you apply TDD to Advent of Code - [Advent of TDD](https://github.com/jpgough/advent-of-tdd/)
 - An example of how to use Terraform to manage GitHub repositories and teams - [GitHub Terraform](https://github.com/rocketstack-matt/terraform-example)
 - Produce simple & elegant visual roadmaps from your GitHub issues - [Roadmapper](https://github.com/rocketstack-matt/roadmapper)
+- See how much of every AI subscription you've used, right in your Mac's menu bar - [AI Usage](https://ai.rocketstack.co)
 
 ### Talks
 - [Keep CALM & Carry On Approving Change](https://www.youtube.com/watch?v=pKjRSMQjy6E) at the London FINOS Open Source in Finance Forum 2024
